@@ -3,6 +3,7 @@ A simple .bat that help you clean up windows temp file
 
 
 #Codes
+```
 @echo off
 echo 正在清除系統垃圾檔案，請稍後...
 del /f /s /q %systemdrive%\*.tmp
@@ -22,3 +23,4 @@ del /f /s /q "%userprofile%\Local Settings\Temp\*.*"
 del /f /s /q "%userprofile%\recent\*.*"
 echo 清除系統垃圾完成!
 echo. & pause
+```
