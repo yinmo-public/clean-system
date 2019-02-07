@@ -3,8 +3,8 @@ A simple .bat that help you clean up windows temp file
 
 
 #Codes
-```
->>>@echo off
+
+```@echo off
 echo 正在清除系統垃圾檔案，請稍後...
 del /f /s /q %systemdrive%\*.tmp
 del /f /s /q %systemdrive%\*._mp
