@@ -1,7 +1,7 @@
 
 A simple .bat that help you clean up windows temp file
 
-[![GitHub license] 
+[![GitHub license](https://img.shields.io/github/license/yinmo-public/clean-system.svg)](https://github.com/yinmo-public/clean-system/blob/master/LICENSE)
 
 ```
 @echo off
