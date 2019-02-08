@@ -1,8 +1,8 @@
 
 A simple .bat that help you clean up windows temp file
 
+[![GitHub license] 
 
-# Codes
 ```
 @echo off
 echo 正在清除系統垃圾檔案，請稍後...
