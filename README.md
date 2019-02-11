@@ -24,3 +24,10 @@ del /f /s /q "%userprofile%\recent\*.*"
 echo 清除系統垃圾完成!
 echo. & pause
 ```
+
+---
+# Thanks to
+
+This file is referenced from [YiJhu](https://github.com/YiJhu/clean-sys-for-windows)
+
+YiJhu/[@L.H.](https://github.com/YiJhu)
